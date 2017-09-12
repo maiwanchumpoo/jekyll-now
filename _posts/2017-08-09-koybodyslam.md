@@ -18,7 +18,6 @@
 * 5.โอม เปล่งขำ (โอม) – คีย์บอร์ด, ร้องประสาน (พ.ศ. 2553–ปัจจุบัน) (แบกอัพ : พ.ศ. 2550–2553)
 ![Bodyslam](https://scontent.fbkk5-7.fna.fbcdn.net/v/t1.0-9/17903387_1758967847747429_7309487456133686291_n.jpg?oh=67586cf9a62606706afd7848d89042b0&oe=5A4D8E5B)
 ---
-![Bodyslam](http://1.bp.blogspot.com/-kW2v5cwrvRE/VbOT85sVvdI/AAAAAAAABtI/augbzSqeCE0/s1600/11406563_10153420772149853_7729631743864138213_o.jpg)
 ![Bodyslam](https://www.songdee.com/wp-content/uploads/2014/07/%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%87%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%A1-%E2%80%93-bodyslam-%E0%B8%9A%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B9%89%E0%B8%AA%E0%B9%81%E0%B8%A5%E0%B8%A1.jpg)
 ![Bodyslam](https://scontent.fbkk5-7.fna.fbcdn.net/v/t31.0-8/17039350_1734724143505133_5726555969384769722_o.jpg?oh=a46e173c69216917a5af929a22b36df0&oe=5A4A479E)
 
@@ -27,6 +26,6 @@
 * BodyslamFanclub
 ![Bodyslam](https://scontent.fbkk5-7.fna.fbcdn.net/v/t31.0-8/19400564_1375074135917128_4030692078219262309_o.jpg?oh=74d727aa8ac5656712340e2e718e3a0d&oe=5A5BF072)
 ![Bodyslam](https://scontent.fbkk5-7.fna.fbcdn.net/v/t31.0-8/17016821_1257218054369404_7558544905668108328_o.jpg?oh=2536c10581d476fe0aef95a0dfc2c0af&oe=5A45C967)
-![Bodyslam](https://scontent.fbkk5-7.fna.fbcdn.net/v/t1.0-9/19732257_1388128171278391_1100137755956284969_n.jpg?oh=e447ecb32af70ff90f52967e71c33b15&oe=5A4EDCDF)
+![Bodyslam](http://1.bp.blogspot.com/-kW2v5cwrvRE/VbOT85sVvdI/AAAAAAAABtI/augbzSqeCE0/s1600/11406563_10153420772149853_7729631743864138213_o.jpg)
 
 * ขออนุญาติภาพจากเพจ(https://www.facebook.com/pg/everybodyslam/photos/?tab=album&album_id=1417949225182628)
