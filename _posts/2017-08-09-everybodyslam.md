@@ -5,9 +5,9 @@ description: "only time will tell"
 
 [I'm an inline-style link](https://www.facebook.com/everybodyslam/)
 
-[logo]: (https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2")
+[logo]:(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2")
 
-![Note8] (https://www.google.co.th/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjIqOXa05XWAhXBOI8KHRLgDowQjRwIBw&url=http%3A%2F%2Fwww.77poster.com%2FPoster.aspx%3Fcatalog%3D7.14&psig=AFQjCNGiRECSj-pBiVCBbr1N724lwHPYsg&ust=1504962316613457)
+![Note8](https://www.google.co.th/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjIqOXa05XWAhXBOI8KHRLgDowQjRwIBw&url=http%3A%2F%2Fwww.77poster.com%2FPoster.aspx%3Fcatalog%3D7.14&psig=AFQjCNGiRECSj-pBiVCBbr1N724lwHPYsg&ust=1504962316613457)
 
 * Bodyslam บอดี้สแลม : เป็นวงดนตรีร็อกสัญชาติไทยจากกรุงเทพมหานคร ก่อตั้งขึ้นในปี พ.ศ. 2545 เป็นวงดนตรีที่ได้รับความนิยมในประเทศไทย สมาชิกวงที่เป็นที่รู้จักกันดีจากวงนี้คือ นักร้องนำของวง อาทิวราห์ คงมาลัย (ตูน) โดยเพลงส่วนใหญ่ได้อิทธิพลมาจากดนตรีร็อกจากฝั่งสหรัฐอเมริกาในยุคต้นคริสต์ทศวรรษ 1990 ผสมผสานกับดนตรีแนวโปรเกรสซีฟร็อก
 บอดี้สแลมประสบความสำเร็จกับอัลบั้มชุดแรกของวง ซึ่งมีชื่ออัลบั้มเป็นชื่อเดียวกันกับวง หลังจากนั้นก็ได้ออกจำหน่ายอัลบั้มชุดต่อมา ไดรฟ์ ในปี พ.ศ. 2546 และตามด้วยการออกงานแสดงคอนเสิร์ต บอดี้สแลมเริ่มต้นด้วยวง ละอ่อน ในปี พ.ศ. 2539 วงได้ชนะการประกวดวงดนตรี Hot Wave Music Award และได้ออกจำหน่ายอัลบั้มกับค่ายมิวสิก บั๊กส์ ในชื่อ ละอ่อน ในปี พ.ศ. 2540 ด้วยแนวเพลงป็อปร็อก เพลงหนึ่งในอัลบั้ม "ได้หรือเปล่า" เป็นเพลงที่ได้รับการยอมรับมากที่สุดของวง ต่อมา ตูน กับ เภา ออกจากวงไป และได้ปั้น(Basher) มาร้องนำ ได้ออกอัลบั้มชุดที่สอง เทพนิยายนายเสนาะ ในปี พ.ศ. 2541 แต่หลังจากนั้นวงก็ได้แยกย้ายกันไปเรียนต่อ โดยมีอัลบั้มรวมทั้งหมด4 อัลบั้ม ได้แก่ อัลบั้ม บีลีฟ (2548–2549),อัลบั้ม เซฟมายไลฟ์ (2550–2551),อัลบั้ม คราม (2552–2555),อัลบั้ม ดัม-มะ-ชา-ติ (2556–ปัจจุบัน) และมีสมาชิกรวมวง5คนดังนี้ 
