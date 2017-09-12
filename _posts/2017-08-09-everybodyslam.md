@@ -1,9 +1,7 @@
-
+# Bodyslam Fanclub
 layout: post
 title: Markdown
 category: My Blog
-
-# Bodyslam Fanclub
 
 # Short bio or description (displayed in the header)
 description: "only time will tell" 
