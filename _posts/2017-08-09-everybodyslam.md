@@ -1,15 +1,11 @@
-layout: post
-title: Markdown Example
-category: My Blog
-
 # Bodyslam Fanclub
 
 # Short bio or description (displayed in the header)
 description: "only time will tell" 
 
-[I'm an inline-style link](https://www.facebook.com/everybodyslam/)
+[Every BodySlam Link](https://www.facebook.com/everybodyslam/)
 
-[logo]:(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2")
+![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
 ![Note8](https://www.google.co.th/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjIqOXa05XWAhXBOI8KHRLgDowQjRwIBw&url=http%3A%2F%2Fwww.77poster.com%2FPoster.aspx%3Fcatalog%3D7.14&psig=AFQjCNGiRECSj-pBiVCBbr1N724lwHPYsg&ust=1504962316613457)
 
