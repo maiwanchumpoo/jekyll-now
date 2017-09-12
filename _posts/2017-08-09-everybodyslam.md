@@ -3,8 +3,6 @@
 # Short bio or description (displayed in the header)
 description: "only time will tell" 
 
-## My name is koyMaliwan
-
 [I'm an inline-style link](https://www.facebook.com/everybodyslam/)
 
 [logo]: (https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2")
